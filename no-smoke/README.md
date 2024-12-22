@@ -1,16 +1,11 @@
-# nosmoke
+# NoSmoke - Smoking Detox App
 
-NoSmoke help users quit smoking.
+Helping smokers take their first steps toward a healthier lifestyle! NoSmoke motivates users to log their daily cigarette consumption, maintain streaks for smoke-free days, and visualize potential financial savings by avoiding cigarettes.
 
-## Getting Started
+## ✨ Features:
+- **Encourage Streaks:** Track and maintain smoke-free days.
+- **Keep Financial Awareness:** Display potential money saved by avoiding cigarettes.
+- **Offer Detox Facts:** Show motivational smoking detox facts on the home screen.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> [!NOTE]
+> I had bigger plans for this app, but time constraints limited its functionality and UI to the essentials.
