@@ -1,0 +1,49 @@
+name: cabbage
+description: "Cabbage has multiple layers, just like the vegetable does."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  encrypt: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/cabbage.png
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter/Inter_28pt-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Inter/Inter_28pt-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Inter/Inter_28pt-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Inter/Inter_28pt-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter/Inter_28pt-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter/Inter_28pt-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter/Inter_28pt-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Inter/Inter_28pt-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Inter/Inter_28pt-Black.ttf
+          weight: 900
